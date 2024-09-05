@@ -1,4 +1,4 @@
-# chair-qr-project
+# Chair QR Project
 
 Real-Time Chair Detection and QR Code Recognition with YOLOv8 and OpenCV
 This project demonstrates real-time object detection and QR code recognition using the YOLOv8 model, OpenCV, and the Pyzbar library. The script captures live video from a webcam, detects chairs using YOLOv8, and identifies QR codes within the bounding boxes of detected chairs. The QR code data is then saved to a file and displayed in a separate window.
