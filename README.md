@@ -11,7 +11,7 @@ Multiple Display Windows:
 Displays the webcam feed with chair bounding boxes and labels.
 Shows detected QR code information in a separate window.
 
-#Dependencies
+# Dependencies
 
 opencv-python
 pyzbar
